@@ -1,3 +1,3 @@
 # ClawMachineGame
 
-PlayGame Here - https://ishan47890.github.io/PookiBirthDay/
+PlayGame Here - https://ishan47890.github.io/ClawMachineGame/
